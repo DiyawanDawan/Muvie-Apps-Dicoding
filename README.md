@@ -24,3 +24,6 @@ Buka di bwowser
 <i> [webpack-dev-server] On Your Network (IPv6): http://[fe80::5a8:28a4:707b:8827]:8080/
 
 ![Screenshot (1)](https://github.com/DiyawanDawan/Muvie-Apps-Dicoding/assets/95010003/3a44479b-6752-47c0-8bab-1a83cb657f25)
+
+![Screenshot (3)](https://github.com/DiyawanDawan/Muvie-Apps-Dicoding/assets/95010003/ac331b49-8ca3-4ce0-ba93-8a5c7d927d8c)
+
